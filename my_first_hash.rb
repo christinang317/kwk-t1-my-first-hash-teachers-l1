@@ -35,7 +35,7 @@ def adding
                   "whale bone corsets" => 5,
                   "porcelain vases" => 2,
                   "oil paintings" => 3,
-                  
+
                  }
   # add 2 muskets to the shipping_manifest hash below
   shipping_manifest["muskets"] = 2
@@ -47,6 +47,6 @@ def adding
 
   # return the shipping_manifest hash below
 
-  puts shipping_manifest
+  shipping_manifest
 
 end
